@@ -1,0 +1,11 @@
+version: '3.5'
+services:
+  angular:
+    build: knosc-demo-angular-app/front-end
+    ports: 
+        - '8080:80'
+
+  flask-restful:
+    build: knosc-demo-rest-api
+    ports: 
+        - '5000:5000'
