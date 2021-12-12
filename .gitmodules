@@ -1,0 +1,6 @@
+[submodule "knosc-demo-rest-api"]
+	path = knosc-demo-rest-api
+	url = https://github.com/triguns98/knosc-demo-rest-api
+[submodule "knosc-demo-angular-app"]
+	path = knosc-demo-angular-app
+	url = https://github.com/triguns98/knosc-demo-angular-app
